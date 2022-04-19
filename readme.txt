@@ -6,7 +6,7 @@ domain: http://jatekdoboz.xyz
  
 jatekhaboru6.zip - a JátékDoboz felhasználói alkalmazás projektje
  
-JatekDoboz.apk - felhasználói applikáció
+jatekhaboru6.apk - felhasználói applikáció
 
 jatekhaboru6 mappa - felhasználói projekt
 
