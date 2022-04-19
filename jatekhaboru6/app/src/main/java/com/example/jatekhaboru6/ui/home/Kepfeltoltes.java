@@ -381,7 +381,7 @@ public class Kepfeltoltes extends Fragment {
             feltoltesallapota.setTextColor(Color.RED);
             feltoltesallapota.setText("Adja meg, hol vehető át!");
         }
-        else if (telefon.getText().toString().trim().length() == 0 || telefon.getText().toString().trim().matches("[0-9]+")){
+        else if (telefon.getText().toString().trim().length() == 0){
             telefonfelirat.setTextColor(Color.RED);
             telefonfelirat.setText("Adja meg a telefonszámát:");
             feltoltesallapota.setTextColor(Color.RED);
