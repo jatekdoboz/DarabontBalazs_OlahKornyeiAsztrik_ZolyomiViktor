@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: #1995ad;
+}
+p {
+    font-size: 50px;
+}
+div {
+    background-color: #1995ad;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
