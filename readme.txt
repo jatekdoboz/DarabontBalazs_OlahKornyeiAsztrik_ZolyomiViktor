@@ -18,7 +18,8 @@ JatekAdmin.apk - admin applikáció
 JatekDoboz mappa - admin projekt
  
  
-A szerveren található fájlok
+ 
+A szerveren található fájlok:
  
 admin.php - itt megy végbe az ellenőrzés. Az adminok helyesen írták-e be a felhasználó nevet és a jelszót - a beléptetés, és az üzenetek is itt jelennek meg.
  
@@ -43,8 +44,12 @@ uzenetkuldes.html - biztosítja az adminokkal a kontaktot
 feltoltes3.php - az image mappába tölti fel a http-n keresztul kapott base64 enkodolású képet
  
 feltoltesKicsi.php - ugyan azt teszi mint a feltöltés3.php, csak mindezt az imageKicsi mappába
+
+
+
  
-Az alkalmazásban megtalálható fájlok
+Az alkalmazásban megtalálható fájlok:
+
  
 Hirek.java  -  Hírek kilistázása
  
