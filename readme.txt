@@ -6,11 +6,16 @@ Github
  
 jatekhaboru6.zip - a JátékDoboz felhasználói alkalmazás projektje
  
-JatekDoboz - felhasználói applikáció
+JatekDoboz.apk - felhasználói applikáció
+
+jatekhaboru6 mappa - felhasználói projekt
+
  
 Jatekdoboz.zip - a JátékDoboz admin alkalmazás projektje
  
-JatekAdmin - admin applikáció
+JatekAdmin.apk - admin applikáció
+
+JatekDoboz mappa - admin projekt
  
  
 A szerveren található fájlok
