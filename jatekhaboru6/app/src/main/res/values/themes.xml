@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Jatekhaboru6" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/lila</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/lila</item>
+        <item name="colorSecondaryVariant">@color/szepzold</item>
+        <item name="colorOnSecondary">@color/sotetkek</item>
+
+        <item name="colorOnSurface">@color/white</item>
+
+        <item name="colorPrimaryDark">@color/lila</item>
+
+        <item name="android:windowBackground">@color/white</item>
+
+        <!--gombok szine -->
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+
+        //hogy a status bar tartalma sotet legyen
+        <item name="android:windowLightStatusBar">true</item>
+
+        //navigation bar szine
+        <item name="android:navigationBarColor">@color/lila</item>
+
+        // API 23 specifikus, de mukodott korabbi verziokkal is
+        //sotet nav bar gombok
+        <item name="android:windowLightNavigationBar">false</item>
+
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+
+
+        //borderek szine
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="listaelvalaszto" parent="@android:style/Widget.ListView">
+        <item name="android:divider">@color/szepkek</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="PopupMenu" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">?attr/colorOnPrimary</item>
+        //mostani min api 23 ehhez 26 kell, de nem crashel regi api szinten csak nem valtozik meg a szin
+        <item name="android:iconTint">?attr/colorPrimary</item>
+        <item name="android:textColorTertiary">?attr/colorPrimary</item>
+    </style>
+
+    <style name="TwoWayView">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+
+</resources>

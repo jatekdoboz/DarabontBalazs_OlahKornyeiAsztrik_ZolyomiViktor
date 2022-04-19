@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lila">#1995ad</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bezs">#FCDCAA</color>
+    <color name="zold">#018080</color>
+    <color name="atlatszo">#0000ffff</color>
+    <color name="bezs2">#D7B37C</color>
+    <color name="zold2">#005757</color>
+    <color name="atlatszozold">#018080</color>
+    <color name="sotetszurke">#404040</color>
+    <color name="nagyonsotet">#181818</color>
+    <color name="szurke">#B3B3B3</color>
+    <color name="vilagosszurke">#B3B3B3</color>
+    <color name="szepkek">#8aa4f4</color>
+    <color name="szeppiros">#e06a4f</color>
+    <color name="szepsarga">#ffa581</color>
+    <color name="szeplila">#f20157</color>
+    <color name="szepzold">#9bcc5f</color>
+    <color name="sotetkek">#15425c</color>
+    <color name="sotetpiros">#740e32</color>
+    <color name="sotetsarga">#c17e12</color>
+    <color name="sotetlila">#c17e12</color>
+</resources>

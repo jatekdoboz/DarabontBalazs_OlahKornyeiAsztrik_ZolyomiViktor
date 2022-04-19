@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/telefonszampopup"
+        android:title="Telefonszam"
+        android:icon="@drawable/telo"
+        android:visible="true"
+        android:iconTint="@color/lila"/>
+
+    <item
+        android:id="@+id/emailpopup"
+        android:title="Email"
+        android:icon="@drawable/email_ikon"/>
+
+</menu>
