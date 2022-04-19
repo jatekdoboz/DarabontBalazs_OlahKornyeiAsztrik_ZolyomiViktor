@@ -1,8 +1,8 @@
-Felhasznált
- 
-** Nem használt **
+Felhasznált / ** Nem használt **
  
 Github
+
+domain: http://jatekdoboz.xyz
  
 jatekhaboru6.zip - a JátékDoboz felhasználói alkalmazás projektje
  
